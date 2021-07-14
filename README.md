@@ -1,1 +1,1 @@
-# Pancreati-Cancer-Detection
+# Pancreatic-Cancer-Detection
